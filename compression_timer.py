@@ -34,7 +34,7 @@ def test_compression(input_file, output_zip):
 
 
 # Przykład użycia:
-input_file = '../Techniki Kodowania i Modulacji/kompresja/pythonProject1/Wuthering Heights.txt'  # Ścieżka do pliku tekstowego
+input_file = 'Wuthering Heights.txt'  # Ścieżka do pliku tekstowego
 output_zip = 'plik.zip'  # Ścieżka do pliku ZIP
 
 test_compression(input_file, output_zip)
